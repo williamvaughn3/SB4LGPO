@@ -24,5 +24,3 @@ Forgive formatting, being lazy right now.
 
 <#Still need to create the backup GPO for the registry and setting modifications that point the system updates to the DISA WSUS server.
 Not the forum to have this discussion, but there are specific systems.  Would be great to find out the nuances of delivery optimization functionality in windows 10.  Which we could leverage to create an unmanaged, ghetto wsus server, which uses only one system to sync. A lot of unknowns, but one big one would be if we are not allowing them to communicate, download, how would they know the updates need pulled in the first place, does the delivery optimization do this?#>
-
-#Appreciate the assistance Nando, Will, and Luke!!!!  
